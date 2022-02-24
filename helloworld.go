@@ -9,5 +9,5 @@ func SayHelloTo(who string) {
 }
 
 func SayHello() {
-	SayHelloTo("world")
+	SayHelloTo("world!")
 }
